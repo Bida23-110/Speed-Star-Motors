@@ -22,7 +22,7 @@
   <img src="car1.jpg" alt="A new car from Speedstar Motors">
   <h3>BMW 3 Series</h3>
   <p>P125 000</p>
-  <img src="car2.jpg" alt= "A new car from Speedstar Motors">
+  <img src="car3.jpg" alt= "A new car from Speedstar Motors">
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
   </body>
 </html>
