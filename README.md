@@ -1,8 +1,14 @@
 <DOCTYPE html>
-<html>
-  <head>
-    <title> Speed Star Motors </title>
-    <p></p>
-  <img src = "Car 1.jpg"/>  
-  </head>
-</html>
+<html lang="en">
+<head>
+  <title>Speedstar Motors</title>
+</head>
+<header>
+  <h1>Welcome to Speedstar Motors</h1>
+<nav>
+  <a href="about>About</a>
+  <a href="inventory">inventory</a>
+  <a href="services">service</a>
+  <a href="contact">contact</a>
+</nav>
+</header>
