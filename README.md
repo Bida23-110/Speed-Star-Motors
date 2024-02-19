@@ -23,6 +23,8 @@
   <h3>BMW 3 Series</h3>
   <p>P125 000</p>
   <img src="car3.jpg" alt= "A new car from Speedstar Motors">
+    <h3>BMW 4 Series Coupe</h3>
+    <p>P200 000</p>
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
   </body>
 </html>
