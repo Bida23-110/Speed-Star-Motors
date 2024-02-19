@@ -20,9 +20,9 @@
   <p>Explore our selection of cars and find the perfect one for you</p>
 </main>
   <img src="car1.jpg" alt="A new car from Speedstar Motors">
-  <h3>Car 1</h3>
+  <h3>BMW 3 Series</h3>
   <p>P125 000</p>
-  <img src="car 2.jpg" alt= "A new car from Speedstar Motors">
+  <img src="car2.jpg" alt= "A new car from Speedstar Motors">
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
   </body>
 </html>
