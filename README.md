@@ -6,6 +6,7 @@
   <body>
 <header>
   <h1>Welcome to Speedstar Motors</h1>
+  <p>Where speed meets comfort</p>
 <nav>
   <ul>
  <li><a href="about">About</a></li>
