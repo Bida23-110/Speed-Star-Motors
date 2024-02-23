@@ -57,7 +57,6 @@ li a:hover {
     <section>
       <h2> Speedstar Motors</h2>
       <p>We offer a wide range of new vehicles,as well as parts for all makes and models.</p>
-    </section>
     <h2>Contacts Us</h2>
     <p>Phone: (+267 74 014 481)</p>
     <p>Email: info@speedstarmotors.com</p>
