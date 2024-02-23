@@ -53,7 +53,21 @@ li a:hover {
     <h3>BMW 4 Series Coupe</h3>
     <p>$97 645</p>
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
-  
-  </body>
+  <footer>
+    <section>
+      <h2> Speedstar Motors</h2>
+      <p>We offer a wide range of new vehicles,as well as parts for all makes and models.</p>
+    </section>
+    <h2>Contacts Us</h2>
+    <p>Phone: (+267 74 014 481)</p>
+    <p>Email: info@speedstarmotors.com</p>
+  </section>
+    <h2>Follow Us</h2>
+    <ul>
+      <li><a href=https://www.facebook.com/speedstarmotors</a></li>
+        <li><a href=https:www.instagram.com/speedstarmotors</a></li>
+    </ul>
+  </footer>
+    </body>
 </html>
   
