@@ -35,7 +35,6 @@ li a:hover {
 </style>
 </nav>  
 </header>
-<h2>Navigation Menu</h2>
 <ul>
   <li><a href="About">About</a></li>
   <li><a href="Inventory">Inventory</a></li>
@@ -44,13 +43,16 @@ li a:hover {
 </ul>
 <main>
   <h2>Drive Your Dream</h2>
-  <p>Explore our selection of cars and find the perfect one for you</p>
+  <p>Explore our selection of cars and find the perfect one for you.Browse our selection of dream cars and experience your dream come true with us.</p>
 </main>
   <img src="car1.jpg" alt="A new car from Speedstar Motors">
   <h3>BMW 3 Series</h3>
+  <p>$75 295</p>
   <img src="car3.jpg" alt= "A new car from Speedstar Motors">
     <h3>BMW 4 Series Coupe</h3>
+    <p>$97 645</p>
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
+  
   </body>
 </html>
   
