@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <img src="logo1.jpg">
-  <title>Speedstar Motors</title>
+  <title></title>
 </head>
   <body>
 <header>
