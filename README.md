@@ -1,6 +1,7 @@
 <DOCTYPE html>
 <html lang="en">
 <head>
+  <img src="logo1.jpg">
   <title>Speedstar Motors</title>
 </head>
   <body>
