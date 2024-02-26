@@ -58,12 +58,12 @@ li a:hover {
     <h2>Contacts Us</h2>
     <p>Phone: (+267 74 014 481)</p>
     <p>Email: info@speedstarmotors.com</p>
-  </section>
     <h2>Follow Us</h2>
     <ul>
       <li><a href=https://www.facebook.com/speedstarmotors</a></li>
         <li><a href=https://www.instagram.com/speedstarmotors</a></li>
     </ul>
+        </section>
   </footer>
     </body>
 </html>
