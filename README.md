@@ -37,7 +37,7 @@ li a:hover {
 </nav>  
 </header>
 <ul>
-  <li><a href="About">About</a></li>
+  <li><a href="About.html">About</a></li>
   <li><a href="Inventory">Inventory</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#Services">Services</a></li>
