@@ -60,8 +60,8 @@ li a:hover {
     <p>Email: info@speedstarmotors.com</p>
     <h2>Follow Us</h2>
     <ul>
-      <li><a href=https://www.facebook.com/speedstarmotors>Facebook</a></li>
-        <li><a href=https://www.instagram.com/speedstarmotors>Instagram</a></li>
+      <li><a href="https://www.facebook.com/speedstarmotors">Facebook</a></li>
+        <li><a href="https://www.instagram.com/speedstarmotors">Instagram</a></li>
     </ul>
         </section>
   </footer>
