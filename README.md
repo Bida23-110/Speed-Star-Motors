@@ -48,10 +48,8 @@ li a:hover {
 </main>
   <img src="car1.jpg" alt="A new car from Speedstar Motors">
   <h3>BMW 3 Series</h3>
-  <p>$75 295</p>
   <img src="car3.jpg" alt= "A new car from Speedstar Motors">
-    <h3>BMW 4 Series Coupe</h3>
-    <p>$97 645</p>
+    <h3>BMW 4 Series Coupe</>
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
   <footer>
     <section>
