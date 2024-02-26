@@ -37,7 +37,7 @@ li a:hover {
 </nav>  
 </header>
 <ul>
-  <li><a href="About.html">About</a></li>
+  <li><a href="About.html">About Us</a></li>
   <li><a href="Inventory">Inventory</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="Services.html">Services</a></li>
@@ -60,7 +60,6 @@ li a:hover {
     <p>Email: info@speedstarmotors.com</p>
   </section>
     <h2>Follow Us</h2>
-    <ul>
       <li><a href=https://www.facebook.com/speedstarmotors</a></li>
         <li><a href=https:www.instagram.com/speedstarmotors</a></li>
     </ul>
