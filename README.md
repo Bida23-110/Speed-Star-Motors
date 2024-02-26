@@ -49,7 +49,7 @@ li a:hover {
   <img src="car1.jpg" alt="A new car from Speedstar Motors">
   <h3>BMW 3 Series</h3>
   <img src="car3.jpg" alt= "A new car from Speedstar Motors">
-    <h3>BMW 4 Series Coupe</>
+    <h3>BMW 4 Series Coupe</h3>
   <p>Visit us at our convenient location or give us a call to schedule a test drive.</p>
   <footer>
     <section>
@@ -60,8 +60,8 @@ li a:hover {
     <p>Email: info@speedstarmotors.com</p>
     <h2>Follow Us</h2>
     <ul>
-      <li><a href=https://www.facebook.com/speedstarmotors</a></li>
-        <li><a href=https://www.instagram.com/speedstarmotors</a></li>
+      <li><a href=https://www.facebook.com/speedstarmotors>Facebook</a></li>
+        <li><a href=https://www.instagram.com/speedstarmotors>Instagram</a></li>
     </ul>
         </section>
   </footer>
