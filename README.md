@@ -6,6 +6,7 @@
 </head>
   <body>
 <header>
+  <linl href="style.css" rel="stylesheet">
   <h1>Welcome to Speedstar Motors</h1>
   <p>Where speed meets comfort</p>
 <nav>
